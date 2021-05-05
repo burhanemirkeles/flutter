@@ -1,5 +1,7 @@
 # BMI Calculator 
 
+UI Designer: Ruben Vaalt. https://dribbble.com/shots/4585382-Simple-BMI-Calculator
+
 In this project I learnt lots of tips for refactoring code, creating multi-page apps using Flutter Routes and Navigator, how to customise widgets for a specific design style.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
